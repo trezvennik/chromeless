@@ -14,7 +14,7 @@ Thanks to all the contributors who made this project possible.*
 
 Chrome automation made simple. Runs locally or headless on AWS Lambda. (**[See Demo](https://chromeless.netlify.com/)**)
 
-youtu.be (**[See Demo](https://youtu.be/-5S5Aw_38i0/)**)
+ (**[youtu.be](https://youtu.be/-5S5Aw_38i0/)**)
 
 ## Chromeless can be used to...
 
